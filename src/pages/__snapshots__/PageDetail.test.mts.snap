@@ -1,0 +1,219 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`PageDetail Snapshot Tests > matches the snapshot 1`] = `
+"<!--v-if-->
+<section data-v-6051a020="" class="hero-section flex h-[800px] lg:h-[80vh] px-6"><img data-v-6051a020="" class="cdr-image_15-1-0 hero-section__hero-img object-right" src="https://www.summit-forge.com/satchel/febs/athlete/assets/img/honnold-bg.avif" alt="Alex Honnold climbing a big wall" id="hero-section__hero-img">
+  <div data-v-6051a020="" class="cdr-container_15-1-0 cdr-container--static_15-1-0">
+    <div data-v-6051a020="" class="hero-section__content flex flex-col items-center h-full justify-end relative z-10 md:flex-row md:justify-between md:items-end md:pb-16">
+      <div data-v-6051a020="" class="hero-section__avatar py-10 md:py-0"><img data-v-6051a020="" class="cdr-image_15-1-0 border-4 border-solid border-white h-[120px] w-[120px] sm:h-[150px] sm:w-[150px] sm:mb-12 md:mb-0 object-cover object-top" style="--cdr-img-border-radius: 9999rem;" src="https://www.summit-forge.com/satchel/febs/athlete/assets/img/honnold-avatar.webp" alt="athlete image"></div>
+      <div data-v-6051a020="" class="hero-section__name md:w-[55%] lg:w-[60%] md:pl-4 text-center md:text-left">
+        <h1 data-v-6051a020="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-4); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-4) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Alex Honnold</h1>
+        <div data-v-6051a020="" class="hero-section__meta text-center md:text-left">
+          <p data-v-6051a020="" class="cdr-utility-sans_15-1-0 mb-12" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-1); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">United States · Climbing</p>
+        </div>
+      </div>
+      <div data-v-6051a020="" class="hero-section__socials mb-12 flex"><a data-v-6051a020="" class="cdr-button_15-1-0 cdr-button--secondary_15-1-0 cdr-button--large_15-1-0 p-6 rounded-full mr-4" target="_blank" href="http://www.alexhonnold.com/" aria-label="External link"><svg data-v-6051a020="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+            <path role="presentation" d="M10 7a1 1 0 010 2H5v10h10v-5a1 1 0 012 0v6a.997.997 0 01-1 1H4a.997.997 0 01-1-1V8a.997.997 0 011-1zm10.007-4a.997.997 0 01.992 1.029V9a1 1 0 01-2 .004L19 6.42l-8.295 8.287a1 1 0 01-1.414-1.415L17.58 5H15a1 1 0 010-2z"></path>
+            <!---->
+          </svg></a><a data-v-6051a020="" class="cdr-button_15-1-0 cdr-button--secondary_15-1-0 cdr-button--large_15-1-0 p-6 rounded-full mr-4" href="javascript:void(0)" aria-label="Twitter"><svg data-v-6051a020="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+            <path role="presentation" d="M11.992 9.052s-1.063-2.731 2.115-4.603c0 0 2.582-1.47 5.073.91 0 0 1.124-.053 2.479-1.018 0 0 .2.888-1.567 2.316 0 0 .982-.077 2.098-.785 0 0-.212 1.223-2.032 2.11 0 0 .554 9.673-9.188 11.79 0 0-5.152 1.127-8.78-1.631 0 0 3.849.388 5.893-1.69 0 0-2.565.233-3.828-2.7 0 0 1.282.214 1.804-.194 0 0-2.706.02-3.308-3.904 0 0 1.103.544 1.824.447 0 0-3.063-1.834-1.21-5.414 0 0 3.418 4.118 8.627 4.366z"></path>
+            <!---->
+          </svg></a><a data-v-6051a020="" class="cdr-button_15-1-0 cdr-button--secondary_15-1-0 cdr-button--large_15-1-0 p-6 rounded-full mr-4" href="javascript:void(0)" aria-label="Instagram"><svg data-v-6051a020="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+            <path role="presentation" d="M16 3a5 5 0 015 5v8a5 5 0 01-5 5H8a5 5 0 01-5-5V8a5 5 0 015-5h8zm0 2H8a3 3 0 00-3 3v8a3 3 0 003 3h8a3 3 0 003-3V8a3 3 0 00-3-3zm-4 2a5 5 0 110 10 5 5 0 010-10zm0 2a3 3 0 100 6 3 3 0 000-6zm4.75-2.75a1 1 0 110 2 1 1 0 010-2z"></path>
+            <!---->
+          </svg></a><a data-v-6051a020="" class="cdr-button_15-1-0 cdr-button--secondary_15-1-0 cdr-button--large_15-1-0 p-6 rounded-full" href="javascript:void(0)" aria-label="Facebook"><svg data-v-6051a020="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+            <path role="presentation" d="M9.677 20.895v-8.241H7V9.69h2.677V7.517S9.485 3 13.394 3H17v3.02h-2.415s-1.45-.08-1.465 1.417V9.69h3.34L16 12.654h-2.912V21h-3.41v-.105z"></path>
+            <!---->
+          </svg></a></div>
+    </div>
+  </div>
+  <div data-v-6051a020="" class="hero-section__overlay"></div>
+</section>
+<section data-v-809ce68c="" class="details-section">
+  <div data-v-809ce68c="" class="cdr-container_15-1-0 cdr-container--static_15-1-0 details-section__container">
+    <div data-v-809ce68c="" class="details-section__short-bio">
+      <p data-v-809ce68c="" class="cdr-utility-sans_15-1-0 pb-24" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-1); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;" id="details-section__short-bio">Alex Honnold is an American rock athlete best known for his free solo ascents of big walls. He gained widespread fame and recognition for his free solo climb of El Capitan in Yosemite National Park, which he completed on June 3, 2017.</p>
+    </div>
+    <div data-v-809ce68c="" class="details-section__stats-wrapper pb-12">
+      <div data-v-809ce68c="" class="details-section__stats rounded-lg grid grid-cols-2 p-16 gap-12">
+        <div data-v-809ce68c="" class="details-section__stat">
+          <div data-v-809ce68c="" class="details-section__stat-header"><span data-v-809ce68c="" class="cdr-eyebrow_15-1-0"><strong data-v-809ce68c="">Date of birth</strong></span></div>
+          <div data-v-809ce68c="" class="details-section__stat-value"><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;" id="details-section__dob">1985-08-17</span></div>
+        </div>
+        <div data-v-809ce68c="" class="details-section__stat">
+          <div data-v-809ce68c="" class="details-section__stat-header"><span data-v-809ce68c="" class="cdr-eyebrow_15-1-0"><strong data-v-809ce68c="">Birthplace</strong></span></div>
+          <div data-v-809ce68c="" class="details-section__stat-value"><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;" id="details-section__birthplace">Sacramento, California, USA</span></div>
+        </div>
+        <div data-v-809ce68c="" class="details-section__stat">
+          <div data-v-809ce68c="" class="details-section__stat-header"><span data-v-809ce68c="" class="cdr-eyebrow_15-1-0"><strong data-v-809ce68c="">Age</strong></span></div>
+          <div data-v-809ce68c="" class="details-section__stat-value"><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;" id="details-section__age">38</span></div>
+        </div>
+        <div data-v-809ce68c="" class="details-section__stat">
+          <div data-v-809ce68c="" class="details-section__stat-header"><span data-v-809ce68c="" class="cdr-eyebrow_15-1-0"><strong data-v-809ce68c="">Nationality</strong></span></div>
+          <div data-v-809ce68c="" class="details-section__stat-value"><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;" id="details-section__nationality">American</span></div>
+        </div>
+        <div data-v-809ce68c="" class="details-section__stat">
+          <div data-v-809ce68c="" class="details-section__stat-header"><span data-v-809ce68c="" class="cdr-eyebrow_15-1-0"><strong data-v-809ce68c="">Career start</strong></span></div>
+          <div data-v-809ce68c="" class="details-section__stat-value"><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;" id="details-section__career-start">late 1990s</span></div>
+        </div>
+        <div data-v-809ce68c="" class="details-section__stat">
+          <div data-v-809ce68c="" class="details-section__stat-header"><span data-v-809ce68c="" class="cdr-eyebrow_15-1-0"><strong data-v-809ce68c="">Disciplines</strong></span></div>
+          <div data-v-809ce68c="" id="details-section__disciplines" class="details-section__stat-value"><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Traditional, </span><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Big wall, </span><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Free solo, </span><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Sport, </span><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Speed, </span><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Bouldering</span></div>
+        </div>
+      </div>
+    </div>
+    <div data-v-809ce68c="" class="details-section__rating flex pb-12"><button data-v-809ce68c="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--small_15-1-0 details-section__rating-like p-6" type="button" aria-label="thumbs up"><svg data-v-809ce68c="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <path d="M313.4 32.9c26 5.2 42.9 30.5 37.7 56.5l-2.3 11.4c-5.3 26.7-15.1 52.1-28.8 75.2l144 0c26.5 0 48 21.5 48 48c0 18.5-10.5 34.6-25.9 42.6C497 275.4 504 288.9 504 304c0 23.4-16.8 42.9-38.9 47.1c4.4 7.3 6.9 15.8 6.9 24.9c0 21.3-13.9 39.4-33.1 45.6c.7 3.3 1.1 6.8 1.1 10.4c0 26.5-21.5 48-48 48l-97.5 0c-19 0-37.5-5.6-53.3-16.1l-38.5-25.7C176 420.4 160 390.4 160 358.3l0-38.3 0-48 0-24.9c0-29.2 13.3-56.7 36-75l7.4-5.9c26.5-21.2 44.6-51 51.2-84.2l2.3-11.4c5.2-26 30.5-42.9 56.5-37.7zM32 192l64 0c17.7 0 32 14.3 32 32l0 224c0 17.7-14.3 32-32 32l-64 0c-17.7 0-32-14.3-32-32L0 224c0-17.7 14.3-32 32-32z"></path>
+          </svg>
+          <!---->
+        </svg><span data-v-809ce68c="" class="cdr-utility-sans_15-1-0 details-section__rating-like-count ml-4" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">4,367</span></button><button data-v-809ce68c="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--small_15-1-0 details-section__rating-dislike p-6" type="button" aria-label="thumbs up"><svg data-v-809ce68c="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <path d="M313.4 479.1c26-5.2 42.9-30.5 37.7-56.5l-2.3-11.4c-5.3-26.7-15.1-52.1-28.8-75.2l144 0c26.5 0 48-21.5 48-48c0-18.5-10.5-34.6-25.9-42.6C497 236.6 504 223.1 504 208c0-23.4-16.8-42.9-38.9-47.1c4.4-7.3 6.9-15.8 6.9-24.9c0-21.3-13.9-39.4-33.1-45.6c.7-3.3 1.1-6.8 1.1-10.4c0-26.5-21.5-48-48-48l-97.5 0c-19 0-37.5 5.6-53.3 16.1L202.7 73.8C176 91.6 160 121.6 160 153.7l0 38.3 0 48 0 24.9c0 29.2 13.3 56.7 36 75l7.4 5.9c26.5 21.2 44.6 51 51.2 84.2l2.3 11.4c5.2 26 30.5 42.9 56.5 37.7zM32 384l64 0c17.7 0 32-14.3 32-32l0-224c0-17.7-14.3-32-32-32L32 96C14.3 96 0 110.3 0 128L0 352c0 17.7 14.3 32 32 32z"></path>
+          </svg>
+          <!---->
+        </svg></button><button data-v-809ce68c="" class="cdr-button_15-1-0 cdr-button--sale_15-1-0 cdr-button--medium_15-1-0 flex justify-center items-center mx-8" type="button" id="details-section__load-reviews"> Load reviews </button>
+      <!--v-if-->
+    </div>
+    <!--v-if-->
+    <!--v-if-->
+    <div data-v-809ce68c="" class="details-section__long-bio pb-24">
+      <p data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Alex Honnold is a preeminent figure in the world of rock climbing, renowned for his pioneering achievements and extraordinary skills. Born on August 17, 1985, in Sacramento, California, Honnold began climbing at the age of 11. His early fascination with the sport quickly developed into a lifelong passion, leading him to drop out of the University of California, Berkeley, to pursue climbing full-time.</p>
+      <p data-v-809ce68c="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Honnold's most notable accomplishment is his free solo ascent of El Capitan in Yosemite National Park, completed on June 3, 2017. This 3,000-foot vertical rock formation is considered one of the most challenging climbs in the world. Honnold's ascent, without the use of ropes or safety gear, was a groundbreaking feat that pushed the boundaries of what is possible in climbing. His achievement was documented in the film "Free Solo," which won the Academy Award for Best Documentary Feature in 2019.</p>
+      <div data-v-809ce68c=""><button data-v-809ce68c="" class="cdr-button_15-1-0 cdr-button--primary_15-1-0 cdr-button--large_15-1-0" type="button" aria-haspopup="dialog"> Read more </button>
+        <!--v-if-->
+      </div>
+    </div>
+  </div>
+</section>
+<div data-v-a9b3680f="" class="articles-section pt-28 lg:pt-24 pb-32 lg:pb-44">
+  <div data-v-a9b3680f="" class="cdr-container_15-1-0 cdr-container--static_15-1-0">
+    <section data-v-a9b3680f="">
+      <div data-v-a9b3680f="" class="text-center"><svg data-v-a9b3680f="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 articles-section__icon w-32 h-32 mb-8">
+          <path role="presentation" d="M14.623 2.354c.148.038.27.073.368.103a10.004 10.004 0 016.982 10.26L21.95 13l-.802-.276a1 1 0 01-.671-.874c-.137-1.9-.893-3.306-2.267-4.217L18 7.5l-4.556 4.527 7.526 7.523c.186.186.334.408.435.651l.573 1.383a.301.301 0 01-.393.393l-1.383-.573a2.007 2.007 0 01-.651-.435L12 13.463 4.447 20.97c-.149.15-.32.274-.507.37l-.144.065-1.382.573a.301.301 0 01-.413-.327l.02-.066.572-1.383a2 2 0 01.328-.535l.107-.116 7.525-7.524L6 7.5c-1.508.905-2.333 2.355-2.477 4.35a1 1 0 01-.672.874L2.05 13A10.003 10.003 0 019.008 2.457c.097-.03.22-.065.367-.103A.5.5 0 0110 2.84v.792a1 1 0 01-.56.897l-1.09.535a1 1 0 00-.267 1.605l3.915 3.914 3.918-3.914a1 1 0 00.137-.17l.053-.097a1 1 0 00-.355-1.28l-.102-.058-1.09-.535a1 1 0 01-.552-.772l-.008-.125V2.84a.5.5 0 01.447-.498l.088-.001.09.014zM6.5 5a.5.5 0 100 1 .5.5 0 000-1zm11 0a.5.5 0 100 1 .5.5 0 000-1z"></path>
+          <!---->
+        </svg></div>
+      <div data-v-a9b3680f="" class="articles-section__text mt-6 md:mt-0">
+        <h2 data-v-a9b3680f="" class="cdr-heading-serif_15-1-0 text-center" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-3); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-3) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Athlete stories</h2>
+        <p data-v-a9b3680f="" class="cdr-utility-sans_15-1-0 mb-16 lg:mb-28 sm:mx-80 mt-6 sm:mt-6 text-center" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Explore the thrilling journeys and inspiring achievements of renowned athletes through captivating blog posts.</p>
+      </div>
+      <div data-v-a9b3680f="" class="articles-section__news mb-16 lg:mb-40 sm:px-20">
+        <ul data-v-a9b3680f="" class="cdr-list_15-1-0">
+          <li data-v-a9b3680f="" class="mb-16"><a data-v-a9b3680f="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 block" href="https://www.summit-forge.com/blog/news/a-tribute-to-mary-anderson-summit-forges-co-founder">
+              <h3 data-v-a9b3680f="" class="cdr-heading-serif_15-1-0 articles-section__news-title" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">A Tribute to Mary Anderson, Summit Forge’s Co-Founder</h3>
+              <p data-v-a9b3680f="" class="cdr-utility-sans_15-1-0 articles-section__news-abstract mt-6" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Discover the inspiring story of Mary Anderson Summit Forge co-founder and her legacy in the outdoor industry. Read our tribute on the Summit Forge blog.</p>
+            </a>
+            <hr data-v-a9b3680f="" class="mt-20">
+          </li>
+          <li data-v-a9b3680f="" class="mb-16"><a data-v-a9b3680f="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 block" href="https://www.summit-forge.com/blog/climb/dierdre-wolownick-on-being-the-oldest-woman-to-climb-el-capitan-and-also-alex-honnolds-mom">
+              <h3 data-v-a9b3680f="" class="cdr-heading-serif_15-1-0 articles-section__news-title" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Dierdre Wolownick On Being The Oldest Woman To Climb El Capitan—And Also Alex Honnold’s Mom</h3>
+              <p data-v-a9b3680f="" class="cdr-utility-sans_15-1-0 articles-section__news-abstract mt-6" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">In her new book, Wolownick shares her story of adventure and resilience—both on and off the rock.</p>
+            </a>
+            <hr data-v-a9b3680f="" class="mt-20">
+          </li>
+          <li data-v-a9b3680f="" class="mb-16"><a data-v-a9b3680f="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 block" href="https://www.summit-forge.com/blog/travel/everest-base-camp-trekking-gear-list">
+              <h3 data-v-a9b3680f="" class="cdr-heading-serif_15-1-0 articles-section__news-title" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Everest Base Camp Trekking Gear List</h3>
+              <p data-v-a9b3680f="" class="cdr-utility-sans_15-1-0 articles-section__news-abstract mt-6" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">The following article provides information, tips and a detailed packing list to help you prepare for a trek to Everest Base Camp.</p>
+            </a>
+            <!--v-if-->
+          </li>
+        </ul>
+      </div>
+      <div data-v-a9b3680f="" class="articles-section__cards mt-16">
+        <div data-v-a9b3680f="" class="hidden md:grid grid-cols-3 gap-10 lg:gap-32">
+          <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/1/mary-anderson">
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/img/athletes-site/mary-anderson/live.jpg" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                  <p data-v-eac049d2="" class="mt-0 mb-6">Mary Anderson</p>
+                </div>
+                <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                  <p data-v-eac049d2="" class="m-0">Mary Anderson’s legacy is broad and deep. She is a symbol for us of enduring values—passion for the outdoors, a principled life, community, hard work and perseverance.</p>
+                </div>
+              </div>
+            </a>
+            <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/1/mary-anderson"> Learn more </a></div>
+          </article>
+          <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/3/tenzing-norgay">
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/test/athletes-site/athlete-tenzing-norgay-thumbnail/live.png" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                  <p data-v-eac049d2="" class="mt-0 mb-6">Tenzing Norgay</p>
+                </div>
+                <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                  <p data-v-eac049d2="" class="m-0">Tenzing Norgay was one of the first two people confirmed to reach the summit of Mount Everest.</p>
+                </div>
+              </div>
+            </a>
+            <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/3/tenzing-norgay"> Learn more </a></div>
+          </article>
+          <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/4/alex-honnold">
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/test/athletes-site/athlete-alex-honnold-thumbnail/live.png" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                  <p data-v-eac049d2="" class="mt-0 mb-6">Alex Honnold</p>
+                </div>
+                <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                  <p data-v-eac049d2="" class="m-0">Alex Honnold was the first to free <i>solo</i> El Capitan in Yosemite National Park, and subject of the 2018 Academy Award winning film Free Solo.</p>
+                </div>
+              </div>
+            </a>
+            <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/4/alex-honnold"> Learn more </a></div>
+          </article>
+        </div>
+        <div data-v-a9b3680f="" class="md:hidden flex justify-center w-100">
+          <div data-v-5e086b50="" data-v-a9b3680f="" class="relative"><button data-v-5e086b50="" class="cdr-button_15-1-0 cdr-button--primary_15-1-0 cdr-button--icon-only_15-1-0 base-carousel__button base-carousel__button--left absolute z-10 hidden" type="button" aria-label="Left"><svg data-v-5e086b50="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+                <path role="presentation" d="M8 12c0 .273.11.521.288.702l5.005 5.005a1 1 0 001.414-1.414L10.415 12l4.295-4.295a1 1 0 00-1.417-1.412l-4.98 4.98A.997.997 0 008 12z"></path>
+                <!---->
+              </svg></button>
+            <div data-v-5e086b50="" class="base-carousel" style="width: 360px;">
+              <div data-v-5e086b50="" class="base-carousel__slides">
+                <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/1/mary-anderson">
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/img/athletes-site/mary-anderson/live.jpg" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                      <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                        <p data-v-eac049d2="" class="mt-0 mb-6">Mary Anderson</p>
+                      </div>
+                      <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                        <p data-v-eac049d2="" class="m-0">Mary Anderson’s legacy is broad and deep. She is a symbol for us of enduring values—passion for the outdoors, a principled life, community, hard work and perseverance.</p>
+                      </div>
+                    </div>
+                  </a>
+                  <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/1/mary-anderson"> Learn more </a></div>
+                </article>
+                <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/3/tenzing-norgay">
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/test/athletes-site/athlete-tenzing-norgay-thumbnail/live.png" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                      <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                        <p data-v-eac049d2="" class="mt-0 mb-6">Tenzing Norgay</p>
+                      </div>
+                      <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                        <p data-v-eac049d2="" class="m-0">Tenzing Norgay was one of the first two people confirmed to reach the summit of Mount Everest.</p>
+                      </div>
+                    </div>
+                  </a>
+                  <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/3/tenzing-norgay"> Learn more </a></div>
+                </article>
+                <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/4/alex-honnold">
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/test/athletes-site/athlete-alex-honnold-thumbnail/live.png" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                      <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                        <p data-v-eac049d2="" class="mt-0 mb-6">Alex Honnold</p>
+                      </div>
+                      <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                        <p data-v-eac049d2="" class="m-0">Alex Honnold was the first to free <i>solo</i> El Capitan in Yosemite National Park, and subject of the 2018 Academy Award winning film Free Solo.</p>
+                      </div>
+                    </div>
+                  </a>
+                  <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/4/alex-honnold"> Learn more </a></div>
+                </article>
+              </div>
+            </div><button data-v-5e086b50="" class="cdr-button_15-1-0 cdr-button--primary_15-1-0 cdr-button--icon-only_15-1-0 base-carousel__button base-carousel__button--right absolute z-10 hidden" type="button" aria-label="Right"><svg data-v-5e086b50="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+                <path role="presentation" d="M16 12a.997.997 0 00-.288-.702l-5.005-5.005a1 1 0 00-1.414 1.414L13.585 12 9.29 16.295a1 1 0 001.417 1.412l4.98-4.98A.997.997 0 0016 12z"></path>
+                <!---->
+              </svg></button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>"
+`;

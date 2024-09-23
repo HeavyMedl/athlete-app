@@ -1,0 +1,15 @@
+@import '@rei/cedar/dist/cdr-reset.css';
+@import '@rei/cedar/dist/cdr-fonts.css';
+
+@import '@rei/cedar/dist/style/cdr-container.css';
+@import '@rei/cedar/dist/style/cdr-utility-sans.css';
+@import '@rei/cedar/dist/style/cdr-heading-serif.css';
+@import '@rei/cedar/dist/style/cdr-eyebrow.css';
+@import '@rei/cedar/dist/style/cdr-button.css';
+@import '@rei/cedar/dist/style/cdr-img.css';
+@import '@rei/cedar/dist/style/cdr-card.css';
+@import '@rei/cedar/dist/style/cdr-link.css';
+@import '@rei/cedar/dist/style/cdr-list.css';
+
+// Tailwind
+@tailwind utilities;

@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`BaseCarousel > renders correctly 1`] = `
+"<div data-v-5e086b50="" class="relative"><button data-v-5e086b50="" icon-only="true" aria-label="Left" class="base-carousel__button base-carousel__button--left absolute z-10 hidden"><svg data-v-5e086b50=""></svg></button>
+  <div data-v-5e086b50="" class="base-carousel" style="width: 400px;">
+    <div data-v-5e086b50="" class="base-carousel__slides">
+      <div class="slide">Slide Content</div>
+      <div class="slide">Slide Content 2</div>
+    </div>
+  </div><button data-v-5e086b50="" icon-only="true" aria-label="Right" class="base-carousel__button base-carousel__button--right absolute z-10 hidden"><svg data-v-5e086b50=""></svg></button>
+</div>"
+`;

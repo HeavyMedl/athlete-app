@@ -1,0 +1,417 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`PageLanding Snapshot Tests > matches the snapshot 1`] = `
+"<section data-v-b81c13cd="" class="hero-section flex h-[500px] sm:h-[600px] lg:h-[825px] px-6"><img data-v-b81c13cd="" class="cdr-image_15-1-0" src="/assets/img/athletes-site/homepage-hero/live.jpg" alt="woman lead climbing">
+  <div data-v-b81c13cd="" class="hero-section__content flex max-w-[1750px] w-full justify-center lg:justify-end m-auto items-end">
+    <div data-v-b81c13cd="" class="md:w-[500px] z-10 lg:mr-12 hero-section__content-wrap relative">
+      <div data-v-b81c13cd="" class="flex">
+        <h1 data-v-b81c13cd="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-5); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-5) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;"> Summit Forge </h1><svg data-v-b81c13cd="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 hero-section__icon w-24 h-24 md:h-32 md:w-32">
+          <path role="presentation" d="M19.24 11.306a1 1 0 01.729 1.212l-1.078 3.979a1 1 0 01-1.212.728l-.51-.127c-.182.61-.377 1.244-.585 1.902a5.001 5.001 0 01-9.12.106c-1.992-4.486-3.142-8.23-3.451-11.232A5.5 5.5 0 019.5 2c1.205 0 3.043.237 5.513.71A5.502 5.502 0 0119 8c0 .85-.115 1.903-.346 3.16l.587.146h-.001zM17 8a3.502 3.502 0 00-2.46-3.343C12.233 4.217 10.536 4 9.5 4a3.5 3.5 0 00-3.493 3.721c.293 2.755 1.383 6.29 3.27 10.542a3 3 0 005.436.02c.182-.576.353-1.132.513-1.67l-.458-.113a1 1 0 01-.728-1.213l1.078-3.979a1 1 0 011.212-.728l.38.095C16.904 9.597 17 8.703 17 8zm-.76 6.806l.97.242.555-2.049-.97-.241-.555 2.048z"></path>
+          <!---->
+        </svg>
+      </div><br data-v-b81c13cd="">
+      <p data-v-b81c13cd="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-1); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;"> Welcome to Summit Forge—an experimental playground for showcasing Vue.js and exploring patterns in web development. </p><br data-v-b81c13cd="">
+      <div data-v-b81c13cd="" class="mt-24 md:mt-6 flex flex-col sm:flex-row gap-3"><a data-v-b81c13cd="" class="cdr-button_15-1-0 cdr-button--secondary_15-1-0 cdr-button--large_15-1-0 flex gap-1 items-center justify-center" target="_blank" href="https://gitlab.com/summit-forge/internal/product-engineering/alpine-fe/athletes-microsite/athletes-site"><svg data-v-b81c13cd="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+            <path role="presentation" d="M17 9V6a1 1 0 00-1-1 1 1 0 010-2 3 3 0 013 3v3a2 2 0 002 2 1 1 0 010 2 2 2 0 00-2 2v3a3 3 0 01-3 3 1 1 0 010-2 1 1 0 001-1v-3a3.99 3.99 0 011.354-3A3.99 3.99 0 0117 9zM7 9a3.99 3.99 0 01-1.354 3A3.99 3.99 0 017 15v3a1 1 0 001 1 1 1 0 010 2 3 3 0 01-3-3v-3a2 2 0 00-2-2 1 1 0 010-2 2 2 0 002-2V6a3 3 0 013-3 1 1 0 110 2 1 1 0 00-1 1v3zm2 8a1 1 0 110-2 1 1 0 010 2zm3 0a1 1 0 110-2 1 1 0 010 2zm3 0a1 1 0 110-2 1 1 0 010 2z"></path>
+            <!---->
+          </svg>&nbsp;View the code on GitHub </a><a data-v-b81c13cd="" class="cdr-button_15-1-0 cdr-button--secondary_15-1-0 cdr-button--large_15-1-0 flex gap-1 items-center justify-center" target="_blank" href="https://si.atlassian.net/wiki/x/9qx-Aw"><svg data-v-b81c13cd="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+            <path role="presentation" d="M6 6v14h12V6h1a1 1 0 011 1v14a1 1 0 01-1 1H5a1 1 0 01-1-1V7a1 1 0 011-1h1zm6 8v1H8v-1h4zm4-2v1H8v-1h8zm0-2v1H8v-1h8zm-4-8a2 2 0 011.732 3.001L16 5a1 1 0 011 1v1H7V6a1 1 0 011-1l2.268.001A2 2 0 0112 2zm0 1a1 1 0 100 2 1 1 0 000-2z"></path>
+            <!---->
+          </svg>&nbsp;Documentation </a></div>
+    </div>
+  </div>
+  <div data-v-b81c13cd="" class="hero-section__overlay"></div>
+</section>
+<div data-v-b574c5c8="" class="featured-athlete-section pt-8 pb-24 md:pb-24 md:pt-28">
+  <div data-v-b574c5c8="" class="cdr-container_15-1-0 cdr-container--static_15-1-0">
+    <section data-v-b574c5c8="">
+      <div data-v-b574c5c8="" class="mt-6 mb-16 md:mt-0">
+        <h2 data-v-b574c5c8="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-3); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-3) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;"> The clearest way into the Universe is through a forest wilderness </h2>
+        <p data-v-b574c5c8="" class="cdr-utility-sans_15-1-0 mt-6" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Mountaineering is at the core of Summit Forge's history and a pillar of our current form. In recognition of that rich history, we provide a catalog of some famous athletes past and present. Take your time and learn more about what makes Summit Forge special.</p>
+      </div>
+      <div data-v-b574c5c8="" class="featured-athlete-section__cards mt-16">
+        <div data-v-b574c5c8="" class="hidden md:grid grid-cols-3 gap-10 lg:gap-32">
+          <article data-v-a733ff30="" data-v-b574c5c8="" class="cdr-card_15-1-0 card-featured-athlete flex flex-col rounded-xl"><a data-v-a733ff30="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-athlete__link block" href="/athlete/1/mary-anderson" data-analytics-id="mary-anderson">
+              <div data-v-a733ff30="" class="card-featured-athlete__img-container flex justify-center items-center py-10"><img data-v-a733ff30="" class="cdr-image_15-1-0 border-4 border-solid border-white w-[200px] h-[200px]" style="--cdr-img-border-radius: 9999rem;" src="/assets/img/athletes-site/mary-anderson/live.jpg" alt="athlete image "></div>
+              <div data-v-a733ff30="" class="card-featured-athlete__content p-10 pb-5">
+                <div data-v-a733ff30="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-1); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                  <p data-v-a733ff30="" class="m-0">Mary Anderson’s legacy is broad and deep. She is a symbol for us of enduring values—passion for the outdoors, a principled life, community, hard work and perseverance.</p>
+                </div>
+              </div>
+            </a>
+            <div data-v-a733ff30="" class="mt-auto flex justify-end mb-5 mr-5"><a data-v-a733ff30="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/1/mary-anderson"> Learn more </a></div>
+          </article>
+          <article data-v-a733ff30="" data-v-b574c5c8="" class="cdr-card_15-1-0 card-featured-athlete flex flex-col rounded-xl"><a data-v-a733ff30="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-athlete__link block" href="/athlete/3/tenzing-norgay" data-analytics-id="tenzing-norgay">
+              <div data-v-a733ff30="" class="card-featured-athlete__img-container flex justify-center items-center py-10"><img data-v-a733ff30="" class="cdr-image_15-1-0 border-4 border-solid border-white w-[200px] h-[200px]" style="--cdr-img-border-radius: 9999rem;" src="/assets/test/athletes-site/athlete-tenzing-norgay-thumbnail/live.png" alt="athlete image "></div>
+              <div data-v-a733ff30="" class="card-featured-athlete__content p-10 pb-5">
+                <div data-v-a733ff30="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-1); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                  <p data-v-a733ff30="" class="m-0">Tenzing Norgay was one of the first two people confirmed to reach the summit of Mount Everest.</p>
+                </div>
+              </div>
+            </a>
+            <div data-v-a733ff30="" class="mt-auto flex justify-end mb-5 mr-5"><a data-v-a733ff30="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/3/tenzing-norgay"> Learn more </a></div>
+          </article>
+          <article data-v-a733ff30="" data-v-b574c5c8="" class="cdr-card_15-1-0 card-featured-athlete flex flex-col rounded-xl"><a data-v-a733ff30="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-athlete__link block" href="/athlete/4/alex-honnold" data-analytics-id="alex-honnold">
+              <div data-v-a733ff30="" class="card-featured-athlete__img-container flex justify-center items-center py-10"><img data-v-a733ff30="" class="cdr-image_15-1-0 border-4 border-solid border-white w-[200px] h-[200px]" style="--cdr-img-border-radius: 9999rem;" src="/assets/test/athletes-site/athlete-alex-honnold-thumbnail/live.png" alt="athlete image "></div>
+              <div data-v-a733ff30="" class="card-featured-athlete__content p-10 pb-5">
+                <div data-v-a733ff30="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-1); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                  <p data-v-a733ff30="" class="m-0">Alex Honnold was the first to free <i>solo</i> El Capitan in Yosemite National Park, and subject of the 2018 Academy Award winning film Free Solo.</p>
+                </div>
+              </div>
+            </a>
+            <div data-v-a733ff30="" class="mt-auto flex justify-end mb-5 mr-5"><a data-v-a733ff30="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/4/alex-honnold"> Learn more </a></div>
+          </article>
+        </div>
+        <div data-v-b574c5c8="" class="md:hidden flex justify-center w-100">
+          <div data-v-5e086b50="" data-v-b574c5c8="" class="relative"><button data-v-5e086b50="" class="cdr-button_15-1-0 cdr-button--primary_15-1-0 cdr-button--icon-only_15-1-0 base-carousel__button base-carousel__button--left absolute z-10 hidden" type="button" aria-label="Left"><svg data-v-5e086b50="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+                <path role="presentation" d="M8 12c0 .273.11.521.288.702l5.005 5.005a1 1 0 001.414-1.414L10.415 12l4.295-4.295a1 1 0 00-1.417-1.412l-4.98 4.98A.997.997 0 008 12z"></path>
+                <!---->
+              </svg></button>
+            <div data-v-5e086b50="" class="base-carousel" style="width: 360px;">
+              <div data-v-5e086b50="" class="base-carousel__slides">
+                <article data-v-a733ff30="" data-v-b574c5c8="" class="cdr-card_15-1-0 card-featured-athlete flex flex-col rounded-xl"><a data-v-a733ff30="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-athlete__link block" href="/athlete/1/mary-anderson" data-analytics-id="mary-anderson">
+                    <div data-v-a733ff30="" class="card-featured-athlete__img-container flex justify-center items-center py-10"><img data-v-a733ff30="" class="cdr-image_15-1-0 border-4 border-solid border-white w-[200px] h-[200px]" style="--cdr-img-border-radius: 9999rem;" src="/assets/img/athletes-site/mary-anderson/live.jpg" alt="athlete image "></div>
+                    <div data-v-a733ff30="" class="card-featured-athlete__content p-10 pb-5">
+                      <div data-v-a733ff30="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-1); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                        <p data-v-a733ff30="" class="m-0">Mary Anderson’s legacy is broad and deep. She is a symbol for us of enduring values—passion for the outdoors, a principled life, community, hard work and perseverance.</p>
+                      </div>
+                    </div>
+                  </a>
+                  <div data-v-a733ff30="" class="mt-auto flex justify-end mb-5 mr-5"><a data-v-a733ff30="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/1/mary-anderson"> Learn more </a></div>
+                </article>
+                <article data-v-a733ff30="" data-v-b574c5c8="" class="cdr-card_15-1-0 card-featured-athlete flex flex-col rounded-xl"><a data-v-a733ff30="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-athlete__link block" href="/athlete/3/tenzing-norgay" data-analytics-id="tenzing-norgay">
+                    <div data-v-a733ff30="" class="card-featured-athlete__img-container flex justify-center items-center py-10"><img data-v-a733ff30="" class="cdr-image_15-1-0 border-4 border-solid border-white w-[200px] h-[200px]" style="--cdr-img-border-radius: 9999rem;" src="/assets/test/athletes-site/athlete-tenzing-norgay-thumbnail/live.png" alt="athlete image "></div>
+                    <div data-v-a733ff30="" class="card-featured-athlete__content p-10 pb-5">
+                      <div data-v-a733ff30="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-1); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                        <p data-v-a733ff30="" class="m-0">Tenzing Norgay was one of the first two people confirmed to reach the summit of Mount Everest.</p>
+                      </div>
+                    </div>
+                  </a>
+                  <div data-v-a733ff30="" class="mt-auto flex justify-end mb-5 mr-5"><a data-v-a733ff30="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/3/tenzing-norgay"> Learn more </a></div>
+                </article>
+                <article data-v-a733ff30="" data-v-b574c5c8="" class="cdr-card_15-1-0 card-featured-athlete flex flex-col rounded-xl"><a data-v-a733ff30="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-athlete__link block" href="/athlete/4/alex-honnold" data-analytics-id="alex-honnold">
+                    <div data-v-a733ff30="" class="card-featured-athlete__img-container flex justify-center items-center py-10"><img data-v-a733ff30="" class="cdr-image_15-1-0 border-4 border-solid border-white w-[200px] h-[200px]" style="--cdr-img-border-radius: 9999rem;" src="/assets/test/athletes-site/athlete-alex-honnold-thumbnail/live.png" alt="athlete image "></div>
+                    <div data-v-a733ff30="" class="card-featured-athlete__content p-10 pb-5">
+                      <div data-v-a733ff30="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-1); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                        <p data-v-a733ff30="" class="m-0">Alex Honnold was the first to free <i>solo</i> El Capitan in Yosemite National Park, and subject of the 2018 Academy Award winning film Free Solo.</p>
+                      </div>
+                    </div>
+                  </a>
+                  <div data-v-a733ff30="" class="mt-auto flex justify-end mb-5 mr-5"><a data-v-a733ff30="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/4/alex-honnold"> Learn more </a></div>
+                </article>
+              </div>
+            </div><button data-v-5e086b50="" class="cdr-button_15-1-0 cdr-button--primary_15-1-0 cdr-button--icon-only_15-1-0 base-carousel__button base-carousel__button--right absolute z-10 hidden" type="button" aria-label="Right"><svg data-v-5e086b50="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+                <path role="presentation" d="M16 12a.997.997 0 00-.288-.702l-5.005-5.005a1 1 0 00-1.414 1.414L13.585 12 9.29 16.295a1 1 0 001.417 1.412l4.98-4.98A.997.997 0 0016 12z"></path>
+                <!---->
+              </svg></button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+<div data-v-b7329a8c="" class="third-party-stack-section pt-8 pb-32 lg:pb-56">
+  <div data-v-b7329a8c="" class="cdr-container_15-1-0 cdr-container--static_15-1-0">
+    <section data-v-b7329a8c="">
+      <div data-v-b7329a8c="" class="text-center"><svg data-v-b7329a8c="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 third-party-stack-section__icon w-32 h-32 mb-8">
+          <path role="presentation" d="M14.623 2.354c.148.038.27.073.368.103a10.004 10.004 0 016.982 10.26L21.95 13l-.802-.276a1 1 0 01-.671-.874c-.137-1.9-.893-3.306-2.267-4.217L18 7.5l-4.556 4.527 7.526 7.523c.186.186.334.408.435.651l.573 1.383a.301.301 0 01-.393.393l-1.383-.573a2.007 2.007 0 01-.651-.435L12 13.463 4.447 20.97c-.149.15-.32.274-.507.37l-.144.065-1.382.573a.301.301 0 01-.413-.327l.02-.066.572-1.383a2 2 0 01.328-.535l.107-.116 7.525-7.524L6 7.5c-1.508.905-2.333 2.355-2.477 4.35a1 1 0 01-.672.874L2.05 13A10.003 10.003 0 019.008 2.457c.097-.03.22-.065.367-.103A.5.5 0 0110 2.84v.792a1 1 0 01-.56.897l-1.09.535a1 1 0 00-.267 1.605l3.915 3.914 3.918-3.914a1 1 0 00.137-.17l.053-.097a1 1 0 00-.355-1.28l-.102-.058-1.09-.535a1 1 0 01-.552-.772l-.008-.125V2.84a.5.5 0 01.447-.498l.088-.001.09.014zM6.5 5a.5.5 0 100 1 .5.5 0 000-1zm11 0a.5.5 0 100 1 .5.5 0 000-1z"></path>
+          <!---->
+        </svg></div>
+      <div data-v-b7329a8c="" class="mt-6 mb-28 md:mt-0">
+        <h2 data-v-b7329a8c="" class="cdr-heading-serif_15-1-0 text-center" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-3); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-3) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;"> Open source </h2>
+        <p data-v-b7329a8c="" class="cdr-utility-sans_15-1-0 sm:m-32 mt-6 sm:mt-6 text-center" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;"> Open-source technologies foster collaborative innovation, empowering Summit Forge to adapt quickly and stay ahead in today's dynamic market landscape. They enable flexibility, transparency, and community-driven development, ensuring robust solutions tailored to evolving needs. </p>
+      </div>
+      <div data-v-b7329a8c="" class="grid sm:grid-cols-2 md:grid-cols-3 mt-16 gap-16">
+        <div data-v-b7329a8c="" class="flex gap-4 items-start">
+          <div data-v-b7329a8c=""><svg data-v-b7329a8c="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 w-[45px] h-[45px]"><svg fill="#4FC08D" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <title>Vue</title>
+                <path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"></path>
+              </svg>
+              <!---->
+            </svg></div>
+          <div data-v-b7329a8c="">
+            <h3 data-v-b7329a8c="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-2); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-2) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Vue</h3>
+            <div data-v-b7329a8c="" class="cdr-text_15-1-0 third-party-stack-section__tech-description">
+              <p data-v-b7329a8c="" class="m-0 mt-4">Vue is a progressive JavaScript framework for building user interfaces and single-page applications. It offers flexibility and ease of integration, making it ideal for a wide range of web development projects.</p>
+            </div>
+          </div>
+        </div>
+        <div data-v-b7329a8c="" class="flex gap-4 items-start">
+          <div data-v-b7329a8c=""><svg data-v-b7329a8c="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 w-[45px] h-[45px]"><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" fill="none">
+                <title>file_type_vite</title>
+                <path d="M29.8836 6.146L16.7418 29.6457c-.2714.4851-.9684.488-1.2439.0052L2.0956 6.1482c-.3-.5262.1498-1.1635.746-1.057l13.156 2.3516a.7144.7144 0 00.2537-.0004l12.8808-2.3478c.5942-.1083 1.0463.5241.7515 1.0513z" fill="url(#paint0_linear)"></path>
+                <path d="M22.2644 2.0069l-9.7253 1.9056a.3571.3571 0 00-.2879.3294l-.5982 10.1038c-.014.238.2045.4227.4367.3691l2.7077-.6248c.2534-.0585.4823.1647.4302.4194l-.8044 3.9393c-.0542.265.1947.4918.4536.4132l1.6724-.5082c.2593-.0787.5084.1487.4536.414l-1.2784 6.1877c-.08.387.4348.598.6495.2662L16.5173 25 24.442 9.1848c.1327-.2648-.096-.5667-.387-.5106l-2.787.5379c-.262.0505-.4848-.1934-.4109-.4497l1.8191-6.306c.074-.2568-.1496-.5009-.4118-.4495z" fill="url(#paint1_linear)"></path>
+                <defs id="defs50">
+                  <linearGradient id="paint0_linear" x1="6.0002" y1="32.9999" x2="235" y2="344" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.07142 0 0 .07142 1.3398 1.8944)">
+                    <stop id="stop38" stop-color="#41D1FF"></stop>
+                    <stop id="stop40" offset="1" stop-color="#BD34FE"></stop>
+                  </linearGradient>
+                  <linearGradient id="paint1_linear" x1="194.651" y1="8.8182" x2="236.076" y2="292.989" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.07142 0 0 .07142 1.3398 1.8944)">
+                    <stop id="stop43" stop-color="#FFEA83"></stop>
+                    <stop id="stop45" offset=".0833" stop-color="#FFDD35"></stop>
+                    <stop id="stop47" offset="1" stop-color="#FFA800"></stop>
+                  </linearGradient>
+                </defs>
+              </svg>
+              <!---->
+            </svg></div>
+          <div data-v-b7329a8c="">
+            <h3 data-v-b7329a8c="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-2); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-2) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Vite</h3>
+            <div data-v-b7329a8c="" class="cdr-text_15-1-0 third-party-stack-section__tech-description">
+              <p data-v-b7329a8c="" class="m-0 mt-4">Vite is a fast front-end build tool that offers instant server start and lightning-fast hot module replacement (HMR). It optimizes both development and production workflows with modern JavaScript features and efficient bundling.</p>
+            </div>
+          </div>
+        </div>
+        <div data-v-b7329a8c="" class="flex gap-4 items-start">
+          <div data-v-b7329a8c=""><svg data-v-b7329a8c="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 w-[45px] h-[45px]"><svg viewBox="0 0 256 234" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+                <title>vitest</title>
+                <g>
+                  <path d="M192.115018,70.8083821 L130.914358,159.296327 C130.265568,160.234541 129.327185,160.937354 128.241634,161.298075 C127.156084,161.658796 125.982639,161.655409 124.899291,161.292995 C123.815942,160.928886 122.881962,160.222686 122.23876,159.282779 C121.595728,158.341178 121.278531,157.216676 121.335772,156.08032 L123.78512,107.225806 L84.2429694,98.839802 C83.3978997,98.6607962 82.6105792,98.2768738 81.950612,97.7222438 C81.2906447,97.1677833 80.7783529,96.4595505 80.4592925,95.6603753 C80.1402321,94.8612002 80.0242256,93.9958081 80.121434,93.1407466 C80.2186424,92.2858544 80.5260175,91.4675424 81.0164627,90.7584629 L142.217801,2.27034881 C142.86676,1.33162707 143.805143,0.628982928 144.890693,0.268769843 C145.976413,-0.0914432423 147.149858,-0.0895803631 148.233376,0.27435848 C149.316725,0.638127971 150.250874,1.34398981 150.893906,2.28491313 C151.536938,3.2256671 151.853966,4.34999934 151.796556,5.48737173 L149.347208,54.3423934 L188.88885,62.7277204 C189.73392,62.9067262 190.52141,63.2906486 191.181885,63.8451092 C191.842361,64.3997391 192.353806,65.1079719 192.672189,65.9071471 C192.992265,66.7063222 193.107425,67.5717143 193.010894,68.4266064 C192.914363,69.281668 192.606141,70.09998 192.115018,70.8090595 L192.115018,70.8083821 Z" fill="#FCC72B"></path>
+                  <path d="M128.024524,233.537148 C126.396707,233.538835 124.784639,233.220452 123.280787,232.597234 C121.776936,231.974016 120.410937,231.059512 119.261541,229.907914 L61.4337079,172.084145 C59.1203507,169.758934 57.8236174,166.610668 57.8278409,163.330307 C57.8322544,160.049946 59.1372859,156.903374 61.4570785,154.584936 C63.7767018,152.264805 66.9217498,150.959096 70.20228,150.954015 C73.4829795,150.950628 76.631584,152.246176 78.9576426,154.559533 L128.024524,203.620996 L234.917207,96.7333937 C237.247499,94.4406975 240.388991,93.1617463 243.657497,93.1750213 C246.927697,93.1883347 250.059027,94.4928582 252.368997,96.8043525 C254.680661,99.1160161 255.98637,102.247177 256,105.516191 C256.011773,108.785206 254.73316,111.927036 252.440126,114.257159 L136.785306,229.907914 C135.636079,231.061206 134.270419,231.974016 132.766907,232.597234 C131.263563,233.220452 129.651834,233.538835 128.024524,233.537148 Z" fill="#729B1B"></path>
+                  <path d="M127.974735,233.537148 C129.602552,233.538835 131.21462,233.220452 132.718472,232.597234 C134.222323,231.974016 135.588152,231.059512 136.737718,229.907914 L194.565551,172.084145 C196.878908,169.758934 198.17615,166.610668 198.171084,163.330307 C198.167682,160.049946 196.861973,156.903374 194.541842,154.584936 C192.221711,152.264805 189.076832,150.959096 185.796471,150.954015 C182.51611,150.950628 179.367844,152.246176 177.040939,154.559533 L127.974735,203.620996 L21.0822215,96.7333937 C18.751929,94.4406975 15.6100986,93.1617463 12.3412538,93.1750213 C9.07223962,93.1883347 5.94090913,94.4928582 3.62943176,96.8043525 C1.31790358,99.1160161 0.013413991,102.247177 -1.20332295e-14,105.516191 C-0.0132082455,108.785206 1.26574296,111.927036 3.55837139,114.257159 L119.213783,229.907914 C120.36318,231.061206 121.72884,231.974016 123.232183,232.597234 C124.735696,233.220452 126.347425,233.538835 127.974735,233.537148 Z" fill-opacity="0.5" fill="#729B1B"></path>
+                </g>
+              </svg>
+              <!---->
+            </svg></div>
+          <div data-v-b7329a8c="">
+            <h3 data-v-b7329a8c="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-2); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-2) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Vitest</h3>
+            <div data-v-b7329a8c="" class="cdr-text_15-1-0 third-party-stack-section__tech-description">
+              <p data-v-b7329a8c="" class="m-0 mt-4">Vitest is a fast unit testing framework designed for modern JavaScript and TypeScript applications. It integrates seamlessly with Vite, providing efficient and instant test execution with powerful features like mocking and snapshot testing.</p>
+            </div>
+          </div>
+        </div>
+        <div data-v-b7329a8c="" class="flex gap-4 items-start">
+          <div data-v-b7329a8c=""><svg data-v-b7329a8c="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 w-[45px] h-[45px]"><svg fill="#3178C6" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <title>TypeScript</title>
+                <path d="M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z"></path>
+              </svg>
+              <!---->
+            </svg></div>
+          <div data-v-b7329a8c="">
+            <h3 data-v-b7329a8c="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-2); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-2) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">TypeScript</h3>
+            <div data-v-b7329a8c="" class="cdr-text_15-1-0 third-party-stack-section__tech-description">
+              <p data-v-b7329a8c="" class="m-0 mt-4">TypeScript is a statically typed superset of JavaScript that enhances code quality and developer productivity. It enables early error detection, improved maintainability, and seamless integration with existing JavaScript codebases.</p>
+            </div>
+          </div>
+        </div>
+        <div data-v-b7329a8c="" class="flex gap-4 items-start">
+          <div data-v-b7329a8c=""><svg data-v-b7329a8c="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 w-[45px] h-[45px]"><svg fill="#FC6D26" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <title>GitLab</title>
+                <path d="m23.6004 9.5927-.0337-.0862L20.3.9814a.851.851 0 0 0-.3362-.405.8748.8748 0 0 0-.9997.0539.8748.8748 0 0 0-.29.4399l-2.2055 6.748H7.5375l-2.2057-6.748a.8573.8573 0 0 0-.29-.4412.8748.8748 0 0 0-.9997-.0537.8585.8585 0 0 0-.3362.4049L.4332 9.5015l-.0325.0862a6.0657 6.0657 0 0 0 2.0119 7.0105l.0113.0087.03.0213 4.976 3.7264 2.462 1.8633 1.4995 1.1321a1.0085 1.0085 0 0 0 1.2197 0l1.4995-1.1321 2.4619-1.8633 5.006-3.7489.0125-.01a6.0682 6.0682 0 0 0 2.0094-7.003z"></path>
+              </svg>
+              <!---->
+            </svg></div>
+          <div data-v-b7329a8c="">
+            <h3 data-v-b7329a8c="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-2); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-2) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">GitLab</h3>
+            <div data-v-b7329a8c="" class="cdr-text_15-1-0 third-party-stack-section__tech-description">
+              <p data-v-b7329a8c="" class="m-0 mt-4">GitLab is a comprehensive DevOps platform that combines source code management, CI/CD pipelines, and collaboration tools in a single application. It streamlines software development workflows, enhancing efficiency and enabling seamless collaboration across teams.</p>
+            </div>
+          </div>
+        </div>
+        <div data-v-b7329a8c="" class="flex gap-4 items-start">
+          <div data-v-b7329a8c=""><svg data-v-b7329a8c="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 w-[45px] h-[45px]"><svg fill="#6DB33F" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <title>Spring Boot</title>
+                <path d="m23.693 10.7058-4.73-8.1844c-.4094-.7106-1.4166-1.2942-2.2402-1.2942H7.2725c-.819 0-1.8308.5836-2.2402 1.2942L.307 10.7058c-.4095.7106-.4095 1.873 0 2.5837l4.7252 8.189c.4094.7107 1.4166 1.2943 2.2402 1.2943h9.455c.819 0 1.826-.5836 2.2402-1.2942l4.7252-8.189c.4095-.7107.4095-1.8732 0-2.5838zM10.9763 5.7547c0-.5365.4377-.9742.9742-.9742s.9742.4377.9742.9742v5.8217c0 .5366-.4377.9742-.9742.9742s-.9742-.4376-.9742-.9742zm.9742 12.4294c-3.6427 0-6.6077-2.965-6.6077-6.6077.0047-2.0896.993-4.0521 2.6685-5.304a.8657.8657 0 0 1 1.2142.1788.8657.8657 0 0 1-.1788 1.2143c-2.1602 1.6048-2.612 4.6592-1.0072 6.8194 1.6049 2.1603 4.6593 2.612 6.8195 1.0072 1.2378-.9177 1.9673-2.372 1.9673-3.9157a4.8972 4.8972 0 0 0-1.9861-3.925c-.386-.2824-.466-.8284-.1836-1.2143.2824-.386.8283-.466 1.2143-.1835 1.6895 1.2471 2.6826 3.2238 2.6873 5.3228 0 3.6474-2.965 6.6077-6.6077 6.6077z"></path>
+              </svg>
+              <!---->
+            </svg></div>
+          <div data-v-b7329a8c="">
+            <h3 data-v-b7329a8c="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-2); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-2) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Spring Boot</h3>
+            <div data-v-b7329a8c="" class="cdr-text_15-1-0 third-party-stack-section__tech-description">
+              <p data-v-b7329a8c="" class="m-0 mt-4">Spring Boot is a powerful framework for building Java-based web applications with minimal configuration. It simplifies development by providing a convention-over-configuration approach, enabling rapid deployment and scalability.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+<div data-v-82d03bd4="" class="first-party-stack-section pt-28 lg:pt-24 pb-32 lg:pb-80">
+  <div data-v-82d03bd4="" class="cdr-container_15-1-0 cdr-container--static_15-1-0">
+    <section data-v-82d03bd4="">
+      <div data-v-82d03bd4="" class="text-center"><svg data-v-82d03bd4="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 first-party-stack-section__icon w-32 h-32 mb-8">
+          <path role="presentation" d="M14.623 2.354c.148.038.27.073.368.103a10.004 10.004 0 016.982 10.26L21.95 13l-.802-.276a1 1 0 01-.671-.874c-.137-1.9-.893-3.306-2.267-4.217L18 7.5l-4.556 4.527 7.526 7.523c.186.186.334.408.435.651l.573 1.383a.301.301 0 01-.393.393l-1.383-.573a2.007 2.007 0 01-.651-.435L12 13.463 4.447 20.97c-.149.15-.32.274-.507.37l-.144.065-1.382.573a.301.301 0 01-.413-.327l.02-.066.572-1.383a2 2 0 01.328-.535l.107-.116 7.525-7.524L6 7.5c-1.508.905-2.333 2.355-2.477 4.35a1 1 0 01-.672.874L2.05 13A10.003 10.003 0 019.008 2.457c.097-.03.22-.065.367-.103A.5.5 0 0110 2.84v.792a1 1 0 01-.56.897l-1.09.535a1 1 0 00-.267 1.605l3.915 3.914 3.918-3.914a1 1 0 00.137-.17l.053-.097a1 1 0 00-.355-1.28l-.102-.058-1.09-.535a1 1 0 01-.552-.772l-.008-.125V2.84a.5.5 0 01.447-.498l.088-.001.09.014zM6.5 5a.5.5 0 100 1 .5.5 0 000-1zm11 0a.5.5 0 100 1 .5.5 0 000-1z"></path>
+          <!---->
+        </svg></div>
+      <div data-v-82d03bd4="" class="first-party-stack-section__text mt-6 md:mt-0">
+        <h2 data-v-82d03bd4="" class="cdr-heading-serif_15-1-0 text-center" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-3); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-3) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;"> Home grown </h2>
+        <p data-v-82d03bd4="" class="cdr-utility-sans_15-1-0 mb-16 lg:mb-28 sm:mx-80 mt-6 sm:mt-6 text-center" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;"> Discover some advanced tools and frameworks created by Summit Forge's software engineers, tailored specifically for their peers. </p>
+      </div>
+      <div data-v-82d03bd4="" class="mb-20 lg:mb-32">
+        <article data-v-6b84caae="" data-v-82d03bd4="" class="cdr-card_15-1-0 base-card-large rounded-xl drop-shadow-2xl grid sm:grid-flow-col">
+          <div data-v-6b84caae="" class="base-card-large__top-container px-6 pt-12 sm:pt-0 sm:pl-0">
+            <div data-v-6b84caae="" class="base-card-large__img-container sm:h-full"><img data-v-6b84caae="" class="cdr-image_15-1-0 block h-[300px] sm:h-full" src="https://cedar.rei.com/img/cdr-guidelines-landing.svg" alt="Sasquatch standing behind a tree in a forest"></div>
+          </div>
+          <div data-v-6b84caae="" class="base-card-large__content">
+            <div data-v-6b84caae="" class="base-card-large__content-text p-6 h-full flex flex-col items-start justify-evenly">
+              <div data-v-6b84caae="" class="grid grid-flow-col justify-center items-center sm:mt-24"><svg data-v-6b84caae="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 w-[50px] h-[50px]">
+                  <path role="presentation" d="M12.707 2.293A.997.997 0 0113 3v1a3 3 0 003 3h1a1 1 0 010 2h-1a4.978 4.978 0 01-3-1 3 3 0 003 3h2a1 1 0 110 2h-2a4.978 4.978 0 01-3-1 3 3 0 003 3h3a1 1 0 110 2h-3a4.978 4.978 0 01-3-1v5a1 1 0 01-2 0v-5c-.836.628-1.874 1-3 1H5a1 1 0 010-2h3a3 3 0 003-3c-.836.628-1.874 1-3 1H6a1 1 0 010-2h2a3 3 0 003-3c-.836.628-1.874 1-3 1H7a1 1 0 110-2h1a3 3 0 003-3V3a1 1 0 011.707-.707z"></path>
+                  <!---->
+                </svg>
+                <h3 data-v-6b84caae="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-3); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-3) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;"> Cedar design system </h3>
+              </div>
+              <div data-v-6b84caae="" class="mt-4 sm:px-12">
+                <p data-v-6b84caae="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">A foundational tool set built to serve the design and engineering of digital products. The Cedar Design System promotes reusability of modular components to spread a more unified and cohesive customer experience across our enterprise of digital product development teams and enable more effective design communication.</p>
+              </div>
+              <div data-v-6b84caae="" class="mt-16 w-full sm:pl-12 sm:w-auto"><a data-v-6b84caae="" class="cdr-button_15-1-0 cdr-button--primary_15-1-0 cdr-button--large_15-1-0 flex justify-center w-full" href="https://cedar.rei.com/" target="_blank"> Learn more about Cedar </a></div>
+            </div>
+          </div>
+        </article>
+      </div>
+      <div data-v-82d03bd4="" class="grid sm:grid-cols-2 gap-16">
+        <article data-v-b7421f68="" data-v-82d03bd4="" class="cdr-card_15-1-0 base-card-basic flex flex-col rounded-xl drop-shadow-2xl"><a data-v-b7421f68="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 base-card-basic__link block h-full" target="_blank" rel="noopener noreferrer" href="https://si.atlassian.net/wiki/x/AoAzB">
+            <div data-v-b7421f68="" class="base-card-basic__title grid grid-flow-col justify-center items-center p-4"><span data-v-b7421f68="" class="base-card-basic__title-icon"><svg data-v-82d03bd4="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0"><path role="presentation" d="M9.038 15.274L8.003 12.7 5.483 19H18.55L14.01 6.907l-3.034 8.312a1 1 0 01-1.938.055zM20 21H4a1 1 0 01-.884-1.467l3.92-9.802a1 1 0 011.92-.024l.998 2.482 3.072-8.415a1 1 0 011.954.025l5.912 15.748A1 1 0 0120 21z"></path><!----></svg></span>
+              <h3 data-v-b7421f68="" class="cdr-heading-serif_15-1-0 text-center" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-3); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-3) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;"> Alpine platform </h3>
+            </div>
+            <div data-v-b7421f68="" class="base-card-basic__description p-8 lg:p-12 h-full">
+              <p data-v-b7421f68="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Fast for the engineer. Fast for the customer. Alpine is Summit Forge's very own ecosystem of enterprise frameworks and platforms for building applications at scale.</p>
+            </div>
+          </a></article>
+        <article data-v-b7421f68="" data-v-82d03bd4="" class="cdr-card_15-1-0 base-card-basic flex flex-col rounded-xl drop-shadow-2xl"><a data-v-b7421f68="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 base-card-basic__link block h-full" target="_blank" rel="noopener noreferrer" href="https://github.com/rei/create-package">
+            <div data-v-b7421f68="" class="base-card-basic__title grid grid-flow-col justify-center items-center p-4"><span data-v-b7421f68="" class="base-card-basic__title-icon"><svg data-v-82d03bd4="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0"><path role="presentation" d="M3.594 6.729l8-3.643a1 1 0 01.812 0l8 3.643a1 1 0 01.594.914v8.7a1 1 0 01-.594.914l-8 3.653a1 1 0 01-.812 0l-8-3.653A1 1 0 013 16.343v-8.7a1 1 0 01.594-.914zM5 9.2v6.5l6 2.68v-6.53L5 9.2zm8 9.18l6-2.65V9.2l-6 2.68v6.5zM6.475 7.648l2.042.924 5.51-2.47L12 5.177l-5.525 2.47zm3.48 1.548l2.043.924 5.51-2.471-2.027-.923-5.526 2.47zM6 13l2 .862v2L6 15v-2z"></path><!----></svg></span>
+              <h3 data-v-b7421f68="" class="cdr-heading-serif_15-1-0 text-center" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-3); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-3) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;"> Create package </h3>
+            </div>
+            <div data-v-b7421f68="" class="base-card-basic__description p-8 lg:p-12 h-full">
+              <p data-v-b7421f68="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;"> Quickly scaffold a Vue component, a vanilla TypeScript library, or a microsite using Summit Forge's NPM initializer. </p>
+            </div>
+          </a></article>
+      </div>
+    </section>
+  </div>
+</div>
+<div data-v-a9b3680f="" class="articles-section pt-28 lg:pt-24 pb-32 lg:pb-44">
+  <div data-v-a9b3680f="" class="cdr-container_15-1-0 cdr-container--static_15-1-0">
+    <section data-v-a9b3680f="">
+      <div data-v-a9b3680f="" class="text-center"><svg data-v-a9b3680f="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0 articles-section__icon w-32 h-32 mb-8">
+          <path role="presentation" d="M14.623 2.354c.148.038.27.073.368.103a10.004 10.004 0 016.982 10.26L21.95 13l-.802-.276a1 1 0 01-.671-.874c-.137-1.9-.893-3.306-2.267-4.217L18 7.5l-4.556 4.527 7.526 7.523c.186.186.334.408.435.651l.573 1.383a.301.301 0 01-.393.393l-1.383-.573a2.007 2.007 0 01-.651-.435L12 13.463 4.447 20.97c-.149.15-.32.274-.507.37l-.144.065-1.382.573a.301.301 0 01-.413-.327l.02-.066.572-1.383a2 2 0 01.328-.535l.107-.116 7.525-7.524L6 7.5c-1.508.905-2.333 2.355-2.477 4.35a1 1 0 01-.672.874L2.05 13A10.003 10.003 0 019.008 2.457c.097-.03.22-.065.367-.103A.5.5 0 0110 2.84v.792a1 1 0 01-.56.897l-1.09.535a1 1 0 00-.267 1.605l3.915 3.914 3.918-3.914a1 1 0 00.137-.17l.053-.097a1 1 0 00-.355-1.28l-.102-.058-1.09-.535a1 1 0 01-.552-.772l-.008-.125V2.84a.5.5 0 01.447-.498l.088-.001.09.014zM6.5 5a.5.5 0 100 1 .5.5 0 000-1zm11 0a.5.5 0 100 1 .5.5 0 000-1z"></path>
+          <!---->
+        </svg></div>
+      <div data-v-a9b3680f="" class="articles-section__text mt-6 md:mt-0">
+        <h2 data-v-a9b3680f="" class="cdr-heading-serif_15-1-0 text-center" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-3); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-3) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Get inspired</h2>
+        <p data-v-a9b3680f="" class="cdr-utility-sans_15-1-0 mb-16 lg:mb-28 sm:mx-80 mt-6 sm:mt-6 text-center" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Read the latest news about initiatives at the or learn a new skill, get tips on how to shop, and practice repairing your gear.</p>
+      </div>
+      <div data-v-a9b3680f="" class="articles-section__news mb-16 lg:mb-40 sm:px-20">
+        <ul data-v-a9b3680f="" class="cdr-list_15-1-0">
+          <li data-v-a9b3680f="" class="mb-16"><a data-v-a9b3680f="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 block" href="/athlete/article/amc-theatres-summit-forge--studios-and-mountainfilm-team-up-to-bring-mountainfilm-adventure-shorts-to-the-big-screen-for-adventure-loving-moviegoers-this-fall">
+              <h3 data-v-a9b3680f="" class="cdr-heading-serif_15-1-0 articles-section__news-title" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">AMC Theatres®, Summit Forge Studios, and Mountainfilm team up to bring "Mountainfilm Adventure Shorts" to the big screen</h3>
+              <p data-v-a9b3680f="" class="cdr-utility-sans_15-1-0 articles-section__news-abstract mt-6" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Adventure short films to play in AMC &amp; Summit Forge retail markets across the country this fall</p>
+            </a>
+            <hr data-v-a9b3680f="" class="mt-20">
+          </li>
+          <li data-v-a9b3680f="" class="mb-16"><a data-v-a9b3680f="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 block" href="/athlete/article/summit-forge--to-opt-outside-year-round--kicks-off-the-summer-with-300-free-classes-and-events-across-the-country">
+              <h3 data-v-a9b3680f="" class="cdr-heading-serif_15-1-0 articles-section__news-title" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Summit Forge to Opt Outside year-round: kicks off the summer with 300+ free classes and events across the country</h3>
+              <p data-v-a9b3680f="" class="cdr-utility-sans_15-1-0 articles-section__news-abstract mt-6" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Specialty outdoor retailer Summit Forge is doubling down on its bold commitment to Opt Outside by calling a time out when life feels like it is on autopilot. Summit Forge will host 300+ free classes and day tours on Saturday, June 15 to highlight how the supports its members and broader outdoor community…</p>
+            </a>
+            <hr data-v-a9b3680f="" class="mt-20">
+          </li>
+          <li data-v-a9b3680f="" class="mb-16"><a data-v-a9b3680f="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 block" href="/athlete/article/summit-forge--to-open-first-kentucky-store-in-northeast-louisville-in-fall-2024">
+              <h3 data-v-a9b3680f="" class="cdr-heading-serif_15-1-0 articles-section__news-title" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">Summit Forge to open first Kentucky store in northeast Louisville in fall 2024</h3>
+              <p data-v-a9b3680f="" class="cdr-utility-sans_15-1-0 articles-section__news-abstract mt-6" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">Specialty outdoor retailer Summit Forge will open its first store in Kentucky this fall in Louisville. Conveniently located in the city’s northeast corridor just off interstates 265 and 71, the store will offer a wide assortment of outdoor gear and apparel for camping, cycling, hiking, running…</p>
+            </a>
+            <!--v-if-->
+          </li>
+        </ul>
+      </div>
+      <div data-v-a9b3680f="" class="articles-section__cards mt-16">
+        <div data-v-a9b3680f="" class="hidden md:grid grid-cols-3 gap-10 lg:gap-32">
+          <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/getting-started-rock-climbing">
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/rinckenberger_111815_1735_main_xs.jpg" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                  <p data-v-eac049d2="" class="mt-0 mb-6">Rock Climbing Basics: Getting Started</p>
+                </div>
+                <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                  <p data-v-eac049d2="" class="m-0">If you're looking for fitness, fun and a healthy dose of adrenaline, then rock climbing is a worthy pursuit. Though it attracts its share of daredevils, rock climbing is also enjoyed by legions of everyday adventurers.</p>
+                </div>
+              </div>
+            </a>
+            <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/learn/expert-advice/getting-started-rock-climbing"> Learn more </a></div>
+          </article>
+          <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/crampons-snow-ice-climbing">
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/van_dragt_120617_0047_how_to_choose_crampons_xs.jpg" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                  <p data-v-eac049d2="" class="mt-0 mb-6">Crampons: How to Choose</p>
+                </div>
+                <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                  <p data-v-eac049d2="" class="m-0">Crampons are a necessity to securely travel on snow and ice. With them, you can cross glaciers, ascend snow slopes, climb frozen waterfalls and scale ice-smeared rock.</p>
+                </div>
+              </div>
+            </a>
+            <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/learn/expert-advice/crampons-snow-ice-climbing"> Learn more </a></div>
+          </article>
+          <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/mountaineering-checklist">
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/expertise_mountaineering_checklist_hero_xs.jpg" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                  <p data-v-eac049d2="" class="mt-0 mb-6">Mountaineering Equipment Checklist</p>
+                </div>
+                <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                  <p data-v-eac049d2="" class="m-0">Even though weight is always a consideration, mountaineering is not an ultralight activity. You'll need to have more than the basics to survive unexpected mountain weather.</p>
+                </div>
+              </div>
+            </a>
+            <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/learn/expert-advice/mountaineering-checklist"> Learn more </a></div>
+          </article>
+        </div>
+        <div data-v-a9b3680f="" class="md:hidden flex justify-center w-100">
+          <div data-v-5e086b50="" data-v-a9b3680f="" class="relative"><button data-v-5e086b50="" class="cdr-button_15-1-0 cdr-button--primary_15-1-0 cdr-button--icon-only_15-1-0 base-carousel__button base-carousel__button--left absolute z-10 hidden" type="button" aria-label="Left"><svg data-v-5e086b50="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+                <path role="presentation" d="M8 12c0 .273.11.521.288.702l5.005 5.005a1 1 0 001.414-1.414L10.415 12l4.295-4.295a1 1 0 00-1.417-1.412l-4.98 4.98A.997.997 0 008 12z"></path>
+                <!---->
+              </svg></button>
+            <div data-v-5e086b50="" class="base-carousel" style="width: 360px;">
+              <div data-v-5e086b50="" class="base-carousel__slides">
+                <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/getting-started-rock-climbing">
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/rinckenberger_111815_1735_main_xs.jpg" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                      <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                        <p data-v-eac049d2="" class="mt-0 mb-6">Rock Climbing Basics: Getting Started</p>
+                      </div>
+                      <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                        <p data-v-eac049d2="" class="m-0">If you're looking for fitness, fun and a healthy dose of adrenaline, then rock climbing is a worthy pursuit. Though it attracts its share of daredevils, rock climbing is also enjoyed by legions of everyday adventurers.</p>
+                      </div>
+                    </div>
+                  </a>
+                  <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/learn/expert-advice/getting-started-rock-climbing"> Learn more </a></div>
+                </article>
+                <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/crampons-snow-ice-climbing">
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/van_dragt_120617_0047_how_to_choose_crampons_xs.jpg" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                      <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                        <p data-v-eac049d2="" class="mt-0 mb-6">Crampons: How to Choose</p>
+                      </div>
+                      <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                        <p data-v-eac049d2="" class="m-0">Crampons are a necessity to securely travel on snow and ice. With them, you can cross glaciers, ascend snow slopes, climb frozen waterfalls and scale ice-smeared rock.</p>
+                      </div>
+                    </div>
+                  </a>
+                  <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/learn/expert-advice/crampons-snow-ice-climbing"> Learn more </a></div>
+                </article>
+                <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/mountaineering-checklist">
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/expertise_mountaineering_checklist_hero_xs.jpg" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
+                      <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
+                        <p data-v-eac049d2="" class="mt-0 mb-6">Mountaineering Equipment Checklist</p>
+                      </div>
+                      <div data-v-eac049d2="" class="cdr-utility-sans_15-1-0" style="--cdr-utility-sans-font-size: var(--cdr-type-scale-0); --cdr-utility-sans-line-height: calc(var(--cdr-type-scale-0) * var(--cdr-utility-sans-line-height-ratio)); --cdr-utility-sans-font-weight: 400;">
+                        <p data-v-eac049d2="" class="m-0">Even though weight is always a consideration, mountaineering is not an ultralight activity. You'll need to have more than the basics to survive unexpected mountain weather.</p>
+                      </div>
+                    </div>
+                  </a>
+                  <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/learn/expert-advice/mountaineering-checklist"> Learn more </a></div>
+                </article>
+              </div>
+            </div><button data-v-5e086b50="" class="cdr-button_15-1-0 cdr-button--primary_15-1-0 cdr-button--icon-only_15-1-0 base-carousel__button base-carousel__button--right absolute z-10 hidden" type="button" aria-label="Right"><svg data-v-5e086b50="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" class="cdr-icon_15-1-0">
+                <path role="presentation" d="M16 12a.997.997 0 00-.288-.702l-5.005-5.005a1 1 0 00-1.414 1.414L13.585 12 9.29 16.295a1 1 0 001.417 1.412l4.98-4.98A.997.997 0 0016 12z"></path>
+                <!---->
+              </svg></button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+<div class="athlete-engineering-banner h-[300px] sm:h-[500px] lg:h-[800px]"><img class="cdr-image_15-1-0" src="/assets/test/athletes-site/summit-forge-engineering-banner/live.jpg" alt="Group of mountaineers in the snow superimposed with the Summit Forge Engineering logo">
+  <div class="athlete-engineering-banner__overlay"></div>
+</div>"
+`;

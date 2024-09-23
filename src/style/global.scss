@@ -1,0 +1,11 @@
+/**
+* This file should only be used for scss expressions (variables, mixins, etc), 
+* otherwise rules will get duplicated across every module.
+*/
+@import '@rei/cdr-tokens/dist/rei-dot-com/scss/cdr-tokens';
+@import '@rei/cdr-component-variables/dist/scss/index.scss';
+
+$breakpoint-ultra-wide: 2000px;
+$primary-green: #13352c;
+$secondary-green: #1f513f;
+$tertiary-green: #47bcc1;
