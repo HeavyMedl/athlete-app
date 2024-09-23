@@ -315,7 +315,7 @@ exports[`PageLanding Snapshot Tests > matches the snapshot 1`] = `
       <div data-v-a9b3680f="" class="articles-section__cards mt-16">
         <div data-v-a9b3680f="" class="hidden md:grid grid-cols-3 gap-10 lg:gap-32">
           <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/getting-started-rock-climbing">
-              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/rinckenberger_111815_1735_main_xs.jpg" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-article-1.jpeg" alt="Featured image"></div>
               <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                 <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                   <p data-v-eac049d2="" class="mt-0 mb-6">Rock Climbing Basics: Getting Started</p>
@@ -328,7 +328,7 @@ exports[`PageLanding Snapshot Tests > matches the snapshot 1`] = `
             <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/learn/expert-advice/getting-started-rock-climbing"> Learn more </a></div>
           </article>
           <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/crampons-snow-ice-climbing">
-              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/van_dragt_120617_0047_how_to_choose_crampons_xs.jpg" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-article-2.jpeg" alt="Featured image"></div>
               <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                 <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                   <p data-v-eac049d2="" class="mt-0 mb-6">Crampons: How to Choose</p>
@@ -341,7 +341,7 @@ exports[`PageLanding Snapshot Tests > matches the snapshot 1`] = `
             <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/learn/expert-advice/crampons-snow-ice-climbing"> Learn more </a></div>
           </article>
           <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/mountaineering-checklist">
-              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/expertise_mountaineering_checklist_hero_xs.jpg" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-article-3.jpeg" alt="Featured image"></div>
               <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                 <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                   <p data-v-eac049d2="" class="mt-0 mb-6">Mountaineering Equipment Checklist</p>
@@ -362,7 +362,7 @@ exports[`PageLanding Snapshot Tests > matches the snapshot 1`] = `
             <div data-v-5e086b50="" class="base-carousel" style="width: 360px;">
               <div data-v-5e086b50="" class="base-carousel__slides">
                 <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/getting-started-rock-climbing">
-                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/rinckenberger_111815_1735_main_xs.jpg" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-article-1.jpeg" alt="Featured image"></div>
                     <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                       <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                         <p data-v-eac049d2="" class="mt-0 mb-6">Rock Climbing Basics: Getting Started</p>
@@ -375,7 +375,7 @@ exports[`PageLanding Snapshot Tests > matches the snapshot 1`] = `
                   <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/learn/expert-advice/getting-started-rock-climbing"> Learn more </a></div>
                 </article>
                 <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/crampons-snow-ice-climbing">
-                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/van_dragt_120617_0047_how_to_choose_crampons_xs.jpg" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-article-2.jpeg" alt="Featured image"></div>
                     <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                       <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                         <p data-v-eac049d2="" class="mt-0 mb-6">Crampons: How to Choose</p>
@@ -388,7 +388,7 @@ exports[`PageLanding Snapshot Tests > matches the snapshot 1`] = `
                   <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/learn/expert-advice/crampons-snow-ice-climbing"> Learn more </a></div>
                 </article>
                 <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/learn/expert-advice/mountaineering-checklist">
-                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://www.summit-forge.com/dam/expertise_mountaineering_checklist_hero_xs.jpg" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-article-3.jpeg" alt="Featured image"></div>
                     <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                       <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                         <p data-v-eac049d2="" class="mt-0 mb-6">Mountaineering Equipment Checklist</p>
