@@ -56,7 +56,7 @@ const athleteData = {
       heroAlt: 'The mountaineers hiking up a mountain',
     },
     avatarImg:
-      'https://www.summit-forge.com/satchel/febs/athlete/assets/img/anderson-avatar.jpg',
+      'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-1.jpeg',
     shortBio:
       'Mary Anderson, an American outdoor enthusiast and businesswoman, co-founded Recreational Equipment, Inc. (Summit Forge) with her husband, Lloyd Anderson, in 1938. They started Summit Forge as a cooperative to provide high-quality outdoor gear at reasonable prices, which has since grown into a major retailer.',
     longBio: [
@@ -91,7 +91,7 @@ const athleteData = {
       heroAlt: 'Alex Honnold climbing a big wall',
     },
     avatarImg:
-      'https://www.summit-forge.com/satchel/febs/athlete/assets/img/honnold-avatar.webp',
+      'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-3.jpeg',
     shortBio:
       'Alex Honnold is an American rock athlete best known for his free solo ascents of big walls. He gained widespread fame and recognition for his free solo climb of El Capitan in Yosemite National Park, which he completed on June 3, 2017.',
     longBio: [
@@ -128,7 +128,7 @@ const athleteData = {
       heroAlt: 'The mountaineers hiking up a mountain',
     },
     avatarImg:
-      'https://www.summit-forge.com/satchel/febs/athlete/assets/img/norgay-avatar.png',
+      'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-2.jpeg',
     shortBio:
       "Tenzing Norgay was a Nepalese-Indian Sherpa mountaineer, famous for being one of the first two people, alongside Sir Edmund Hillary, to summit Mount Everest on May 29, 1953. Born in 1914 in the Khumbu region of Nepal, Norgay's expertise and resilience were crucial to the success of the 1953 British Everest Expedition. His achievement brought him international fame and highlighted the skill and endurance of Sherpa athletes.",
     longBio: [

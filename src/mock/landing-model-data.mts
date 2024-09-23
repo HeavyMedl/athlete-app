@@ -168,7 +168,7 @@ const modelData: LandingModel = {
               name: null,
               anchor: null,
               description: null,
-              src: '/assets/img/athletes-site/mary-anderson/live.jpg',
+              src: 'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-1.jpeg',
               customClass: null,
               alt: null,
               srcReference: 'img/athletes-site/mary-anderson',
@@ -179,7 +179,7 @@ const modelData: LandingModel = {
               name: null,
               anchor: null,
               description: null,
-              src: '/assets/test/athletes-site/athlete-tenzing-norgay-thumbnail/live.png',
+              src: 'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-2.jpeg',
               customClass: null,
               alt: null,
               srcReference:
@@ -191,7 +191,7 @@ const modelData: LandingModel = {
               name: null,
               anchor: null,
               description: null,
-              src: '/assets/test/athletes-site/athlete-alex-honnold-thumbnail/live.png',
+              src: 'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-3.jpeg',
               customClass: null,
               alt: null,
               srcReference:
