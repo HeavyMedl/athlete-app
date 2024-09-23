@@ -5,7 +5,7 @@
     :primary-cta="primaryCta"
     :secondary-cta="secondaryCta"
   />
-  <FeaturedathleteSection
+  <FeaturedAthleteSection
     :section-text="featuredSectionText"
     :athletes="athletes"
   />
@@ -26,7 +26,7 @@
 import { provide } from 'vue';
 
 import HeroSection from '../components/landing/HeroSection.vue';
-import FeaturedathleteSection from '../components/landing/FeaturedAthleteSection.vue';
+import FeaturedAthleteSection from '../components/landing/FeaturedAthleteSection.vue';
 import ThirdPartyStackSection from '../components/landing/ThirdPartyStackSection.vue';
 import FirstPartyStackSection from '../components/landing/FirstPartyStackSection.vue';
 import EngineeringBannerSection from '../components/landing/EngineeringBannerSection.vue';
