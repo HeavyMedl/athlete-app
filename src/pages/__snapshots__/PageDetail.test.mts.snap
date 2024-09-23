@@ -2,7 +2,7 @@
 
 exports[`PageDetail Snapshot Tests > matches the snapshot 1`] = `
 "<!--v-if-->
-<section data-v-6051a020="" class="hero-section flex h-[800px] lg:h-[80vh] px-6"><img data-v-6051a020="" class="cdr-image_15-1-0 hero-section__hero-img object-right" src="https://www.summit-forge.com/satchel/febs/athlete/assets/img/honnold-bg.avif" alt="Alex Honnold climbing a big wall" id="hero-section__hero-img">
+<section data-v-6051a020="" class="hero-section flex h-[800px] lg:h-[80vh] px-6"><img data-v-6051a020="" class="cdr-image_15-1-0 hero-section__hero-img object-right" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-detail-3.jpeg" alt="Alex Honnold climbing a big wall" id="hero-section__hero-img">
   <div data-v-6051a020="" class="cdr-container_15-1-0 cdr-container--static_15-1-0">
     <div data-v-6051a020="" class="hero-section__content flex flex-col items-center h-full justify-end relative z-10 md:flex-row md:justify-between md:items-end md:pb-16">
       <div data-v-6051a020="" class="hero-section__avatar py-10 md:py-0"><img data-v-6051a020="" class="cdr-image_15-1-0 border-4 border-solid border-white h-[120px] w-[120px] sm:h-[150px] sm:w-[150px] sm:mb-12 md:mb-0 object-cover object-top" style="--cdr-img-border-radius: 9999rem;" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-3.jpeg" alt="athlete image"></div>
@@ -120,7 +120,7 @@ exports[`PageDetail Snapshot Tests > matches the snapshot 1`] = `
       <div data-v-a9b3680f="" class="articles-section__cards mt-16">
         <div data-v-a9b3680f="" class="hidden md:grid grid-cols-3 gap-10 lg:gap-32">
           <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/1/mary-anderson">
-              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/img/athletes-site/mary-anderson/live.jpg" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-1.jpeg" alt="Featured image"></div>
               <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                 <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                   <p data-v-eac049d2="" class="mt-0 mb-6">Mary Anderson</p>
@@ -133,7 +133,7 @@ exports[`PageDetail Snapshot Tests > matches the snapshot 1`] = `
             <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/1/mary-anderson"> Learn more </a></div>
           </article>
           <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/3/tenzing-norgay">
-              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/test/athletes-site/athlete-tenzing-norgay-thumbnail/live.png" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-2.jpeg" alt="Featured image"></div>
               <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                 <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                   <p data-v-eac049d2="" class="mt-0 mb-6">Tenzing Norgay</p>
@@ -146,7 +146,7 @@ exports[`PageDetail Snapshot Tests > matches the snapshot 1`] = `
             <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/3/tenzing-norgay"> Learn more </a></div>
           </article>
           <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/4/alex-honnold">
-              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/test/athletes-site/athlete-alex-honnold-thumbnail/live.png" alt="Featured image"></div>
+              <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-3.jpeg" alt="Featured image"></div>
               <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                 <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                   <p data-v-eac049d2="" class="mt-0 mb-6">Alex Honnold</p>
@@ -167,7 +167,7 @@ exports[`PageDetail Snapshot Tests > matches the snapshot 1`] = `
             <div data-v-5e086b50="" class="base-carousel" style="width: 360px;">
               <div data-v-5e086b50="" class="base-carousel__slides">
                 <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/1/mary-anderson">
-                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/img/athletes-site/mary-anderson/live.jpg" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-1.jpeg" alt="Featured image"></div>
                     <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                       <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                         <p data-v-eac049d2="" class="mt-0 mb-6">Mary Anderson</p>
@@ -180,7 +180,7 @@ exports[`PageDetail Snapshot Tests > matches the snapshot 1`] = `
                   <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/1/mary-anderson"> Learn more </a></div>
                 </article>
                 <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/3/tenzing-norgay">
-                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/test/athletes-site/athlete-tenzing-norgay-thumbnail/live.png" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-2.jpeg" alt="Featured image"></div>
                     <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                       <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                         <p data-v-eac049d2="" class="mt-0 mb-6">Tenzing Norgay</p>
@@ -193,7 +193,7 @@ exports[`PageDetail Snapshot Tests > matches the snapshot 1`] = `
                   <div data-v-eac049d2="" class="mt-auto flex justify-center mb-5 ml-5"><a data-v-eac049d2="" class="cdr-button_15-1-0 cdr-button--dark_15-1-0 cdr-button--medium_15-1-0" href="/athlete/3/tenzing-norgay"> Learn more </a></div>
                 </article>
                 <article data-v-eac049d2="" data-v-a9b3680f="" class="cdr-card_15-1-0 card-featured-alt flex flex-col rounded-xl"><a data-v-eac049d2="" class="cdr-link_15-1-0 cdr-link--standalone_15-1-0 card-featured-alt__link block" href="/athlete/4/alex-honnold">
-                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="/assets/test/athletes-site/athlete-alex-honnold-thumbnail/live.png" alt="Featured image"></div>
+                    <div data-v-eac049d2="" class="card-featured-alt__img-container flex justify-center items-center h-[250px]"><img data-v-eac049d2="" class="cdr-image_15-1-0 object-cover h-full w-full" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-3.jpeg" alt="Featured image"></div>
                     <div data-v-eac049d2="" class="card-featured-alt__content p-10 pb-12">
                       <div data-v-eac049d2="" class="cdr-heading-serif_15-1-0" style="--cdr-heading-serif-font-size: var(--cdr-type-scale-1); --cdr-heading-serif-line-height: calc(var(--cdr-type-scale-1) * var(--cdr-heading-serif-line-height-ratio)); --cdr-heading-serif-font-weight: 400;">
                         <p data-v-eac049d2="" class="mt-0 mb-6">Alex Honnold</p>

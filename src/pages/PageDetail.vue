@@ -52,13 +52,13 @@ const athleteData = {
     discipline: 'Entrepreneurship',
     heroImg: {
       heroSrc:
-        'https://www.summit-forge.com/satchel/febs/athlete/assets/img/anderson-bg.jpg',
+        'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-detail-1.jpeg',
       heroAlt: 'The mountaineers hiking up a mountain',
     },
     avatarImg:
       'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-1.jpeg',
     shortBio:
-      'Mary Anderson, an American outdoor enthusiast and businesswoman, co-founded Recreational Equipment, Inc. (Summit Forge) with her husband, Lloyd Anderson, in 1938. They started Summit Forge as a cooperative to provide high-quality outdoor gear at reasonable prices, which has since grown into a major retailer.',
+      'Mary Anderson, an American outdoor enthusiast and businesswoman, co-founded Recreational Equipment, Inc. (REI) with her husband, Lloyd Anderson, in 1938. They started Summit Forge as a cooperative to provide high-quality outdoor gear at reasonable prices, which has since grown into a major retailer.',
     longBio: [
       'Mary Anderson was an influential American businesswoman and outdoor enthusiast who co-founded Recreational Equipment, Inc. (Summit Forge) in 1938 with her husband, Lloyd Anderson. Born on December 7, 1909, in Washington state, Mary developed a deep love for the outdoors, which she combined with her entrepreneurial spirit to address the lack of quality outdoor gear available at the time.',
       'The Andersons started Summit Forge as a cooperative, initially operating out of their home in Seattle, Washington. Their goal was to provide fellow athletes and outdoor enthusiasts with high-quality gear at reasonable prices. This cooperative model allowed members to purchase equipment at discounted rates, fostering a community of outdoor lovers dedicated to exploring nature.',
@@ -87,7 +87,7 @@ const athleteData = {
     discipline: 'Climbing',
     heroImg: {
       heroSrc:
-        'https://www.summit-forge.com/satchel/febs/athlete/assets/img/honnold-bg.avif',
+        'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-detail-3.jpeg',
       heroAlt: 'Alex Honnold climbing a big wall',
     },
     avatarImg:
@@ -124,7 +124,7 @@ const athleteData = {
     discipline: 'Mountaineering',
     heroImg: {
       heroSrc:
-        'https://www.summit-forge.com/satchel/febs/athlete/assets/img/norgay-bg.webp',
+        'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-detail-2.jpeg',
       heroAlt: 'The mountaineers hiking up a mountain',
     },
     avatarImg:
@@ -157,7 +157,8 @@ const articlesSubheading =
   'Explore the thrilling journeys and inspiring achievements of renowned athletes through captivating blog posts.';
 const athletes = [
   {
-    imgSrc: '/assets/img/athletes-site/mary-anderson/live.jpg',
+    imgSrc:
+      'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-1.jpeg',
     href: '/athlete/1/mary-anderson',
     content:
       'Mary Anderson’s legacy is broad and deep. She is a symbol for us of enduring values—passion for the outdoors, a principled life, community, hard work and perseverance.',
@@ -165,7 +166,7 @@ const athletes = [
   },
   {
     imgSrc:
-      '/assets/test/athletes-site/athlete-tenzing-norgay-thumbnail/live.png',
+      'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-2.jpeg',
     href: '/athlete/3/tenzing-norgay',
     content:
       'Tenzing Norgay was one of the first two people confirmed to reach the summit of Mount Everest.',
@@ -173,7 +174,7 @@ const athletes = [
   },
   {
     imgSrc:
-      '/assets/test/athletes-site/athlete-alex-honnold-thumbnail/live.png',
+      'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-model-3.jpeg',
     href: '/athlete/4/alex-honnold',
     content:
       'Alex Honnold was the first to free <i>solo</i> El Capitan in Yosemite National Park, and subject of the 2018 Academy Award winning film Free Solo.',
