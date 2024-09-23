@@ -11,10 +11,7 @@ const componentName = ref();
 
 onBeforeMount(async () => {
   const componentContext = await getComponentContext();
-  console.log(componentContext);
   componentName.value = componentContext.componentName;
   pageData.value = componentContext.pageData;
-
-  console.log(pageData.value);
 });
 </script>

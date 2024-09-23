@@ -1,7 +1,7 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
 exports[`PageLanding Snapshot Tests > matches the snapshot 1`] = `
-"<section data-v-b81c13cd="" class="hero-section flex h-[500px] sm:h-[600px] lg:h-[825px] px-6"><img data-v-b81c13cd="" class="cdr-image_15-1-0" src="/assets/img/athletes-site/homepage-hero/live.jpg" alt="woman lead climbing">
+"<section data-v-b81c13cd="" class="hero-section flex h-[500px] sm:h-[600px] lg:h-[825px] px-6"><img data-v-b81c13cd="" class="cdr-image_15-1-0" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-banner.jpeg" alt="woman lead climbing">
   <div data-v-b81c13cd="" class="hero-section__content flex max-w-[1750px] w-full justify-center lg:justify-end m-auto items-end">
     <div data-v-b81c13cd="" class="md:w-[500px] z-10 lg:mr-12 hero-section__content-wrap relative">
       <div data-v-b81c13cd="" class="flex">
@@ -411,7 +411,7 @@ exports[`PageLanding Snapshot Tests > matches the snapshot 1`] = `
     </section>
   </div>
 </div>
-<div class="athlete-engineering-banner h-[300px] sm:h-[500px] lg:h-[800px]"><img class="cdr-image_15-1-0" src="/assets/test/athletes-site/summit-forge-engineering-banner/live.jpg" alt="Group of mountaineers in the snow superimposed with the Summit Forge Engineering logo">
+<div class="athlete-engineering-banner h-[300px] sm:h-[500px] lg:h-[800px]"><img class="cdr-image_15-1-0" src="https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-banner-2.jpeg" alt="Group of mountaineers in the snow superimposed with the Summit Forge Engineering logo">
   <div class="athlete-engineering-banner__overlay"></div>
 </div>"
 `;

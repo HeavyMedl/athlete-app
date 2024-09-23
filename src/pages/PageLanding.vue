@@ -45,7 +45,6 @@ const props = defineProps<{ pageData: PageData }>();
 // do this at the page level component to avoid doing it
 // in all child components. This allows the child components
 // to stay relatively clean.
-console.log(props.pageData);
 const {
   pageData: {
     recentArticles: articles,

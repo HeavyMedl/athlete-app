@@ -116,7 +116,7 @@ const modelData: LandingModel = {
               name: null,
               anchor: null,
               description: null,
-              src: '/assets/img/athletes-site/homepage-hero/live.jpg',
+              src: 'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-banner.jpeg',
               customClass: null,
               alt: 'woman lead climbing',
               srcReference: 'img/athletes-site/homepage-hero',
@@ -773,7 +773,7 @@ const modelData: LandingModel = {
             image_xs: {
               name: null,
               alt: 'Group of mountaineers in the snow superimposed with the Summit Forge Engineering logo',
-              src: '/assets/test/athletes-site/summit-forge-engineering-banner/live.jpg',
+              src: 'https://cdn.jsdelivr.net/gh/HeavyMedl/summit-forge/assets/img/sf-banner-2.jpeg',
               description: null,
               anchor: null,
               customClass: null,
