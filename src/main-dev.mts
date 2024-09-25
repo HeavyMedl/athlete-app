@@ -1,7 +1,8 @@
 import { createApp } from 'vue';
-import GlobalComponentPlugin from '@heavymedl/vue-plugin-global-components';
-import DevelopmentContainer from './DevelopmentContainer.vue';
 
-createApp(DevelopmentContainer)
-  .use(GlobalComponentPlugin, import.meta.glob('./pages/**/*.vue'))
-  .mount('#app');
+import App from './DevApp.vue';
+import router from './router.mjs';
+
+const app = createApp(App);
+app.use(router);
+app.mount('#app');
