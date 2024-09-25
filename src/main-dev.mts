@@ -1,3 +1,5 @@
+import './style/dev-vendor.scss';
+
 import { createApp } from 'vue';
 
 import App from './DevApp.vue';

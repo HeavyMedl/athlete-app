@@ -14,20 +14,12 @@ const router = createRouter({
       name: 'Landing',
       component: PageLanding,
       props: LandingProps,
-      beforeEnter: async (to, from, next) => {
-        await import('./style/pages/landing/vendor.scss');
-        next();
-      },
     },
     {
       path: '/athlete/:id/:athlete',
       name: 'Detail',
       component: PageDetail,
       props: DetailProps,
-      beforeEnter: async (to, from, next) => {
-        await import('./style/pages/detail/vendor.scss');
-        next();
-      },
     },
   ],
 });
