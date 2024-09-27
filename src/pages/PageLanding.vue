@@ -23,7 +23,7 @@
   <EngineeringBannerSection :src="bannerSrc" :alt="bannerAlt" />
 </template>
 <script setup lang="ts">
-import { onMounted, provide } from 'vue';
+import { provide } from 'vue';
 
 import HeroSection from '../components/landing/HeroSection.vue';
 import FeaturedAthleteSection from '../components/landing/FeaturedAthleteSection.vue';

@@ -24,7 +24,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, ref } from 'vue';
+import { computed } from 'vue';
 import DetailsSection from '../components/detail/DetailsSection.vue';
 import HeroSection from '../components/detail/HeroSection.vue';
 import ArticlesSection from '../components/BaseArticlesSection.vue';
