@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
-// import basicSsl from '@vitejs/plugin-basic-ssl';
+import basicSsl from '@vitejs/plugin-basic-ssl';
 import vue from '@vitejs/plugin-vue';
 
 /**
@@ -7,7 +7,7 @@ import vue from '@vitejs/plugin-vue';
  * server. Production builds use `build.mts`
  */
 export default defineConfig({
-  plugins: [vue()],
+  plugins: [basicSsl(), vue()],
   build: {
     rollupOptions: {
       output: {

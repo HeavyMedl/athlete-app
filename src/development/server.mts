@@ -1,9 +1,16 @@
 import fs from 'node:fs/promises';
 import express from 'express';
+import path from 'node:path';
+import os from 'node:os';
+import https from 'node:https';
 
 // Constants
 const port = process.env.PORT || 5173;
 const base = process.env.BASE || '/';
+
+const certDir = path.resolve(os.homedir(), 'certs');
+const certPath = path.resolve(certDir, 'localhost+1.pem');
+const keyPath = path.resolve(certDir, 'localhost+1-key.pem');
 
 // Create http server
 const app = express();
@@ -11,12 +18,13 @@ const app = express();
 // Add Vite or respective production middlewares
 let vite;
 
-const { createServer } = await import('vite');
+const { createServer, createLogger } = await import('vite');
 vite = await createServer({
   server: { middlewareMode: true },
   appType: 'custom',
   base,
 });
+const viteLogger = createLogger();
 app.use(vite.middlewares);
 
 // Serve HTML
@@ -46,7 +54,18 @@ app.use('*', async (req, res) => {
   }
 });
 
-// Start http server
-app.listen(port, () => {
-  console.log(`Server started at http://localhost:${port}`);
-});
+try {
+  // Load SSL certificate and private key
+  const [cert, key] = await Promise.all([
+    fs.readFile(certPath),
+    fs.readFile(keyPath),
+  ]);
+  https.createServer({ cert, key }, app).listen(port, () => {
+    viteLogger.info(`\nVite server started at https://localhost:${port}\n`);
+  });
+} catch (error) {
+  // Start http server
+  app.listen(port, () => {
+    viteLogger.info(`\nVite server started at http://localhost:${port}\n`);
+  });
+}
